@@ -172,7 +172,7 @@ Rejected alternative that was cheaper: store lessons as markdown with inline cit
 ## What was deliberately not built
 
 - **Personalized legal advice.** Educational and technical demonstration only. The simulation content is written inside that constraint, not merely disclaimed after the fact.
-- **A Mastery Engine.** A competency-state model (`UNSEEN` → `MASTERED`) is designed and not implemented. There is no attempt history to model. Building tracking infrastructure for data that does not exist was judged lower-value than shipping the thing that would generate the data. That decision stands.
+- **A Mastery Engine.** A competency-state concept (`UNSEEN` → `MASTERED`) has been named and outlined at the cross-referencing GhostOS-platform level, but no complete Law-Engine-side design specification exists yet. There is no attempt history to model. Building tracking infrastructure for data that does not exist was judged lower-value than shipping the thing that would generate the data. That decision stands.
 - **Breadth over depth.** Seven of eleven UCC Articles remain orientation-only.
 - **A hosted production app.** The public artifact is source plus a local demo.
 
