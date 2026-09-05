@@ -163,7 +163,7 @@ Provenance without temporal validity is incomplete legal-authority management. T
 - Surfaces: statute browser/search, orientation, deterministic syntax analysis, Task Ladder, four multi-step simulations (consumer-to-operator Article 2 ladder, Riverside Bistro, secured-financing, negotiable-instrument/promissory-note).
 - Legal Proof Graph: definition → premise → governing authority → verified fact → intermediate proposition → conclusion, with weakest-link verification over supporting authorities.
 - Case-law layer: exactly two opinions, both `SOURCE_VERIFIED` as of the independent primary-source reads recorded in `library/manifests/fl-4dca-rodriguez-v-wells-fargo-2015.json` and `library/manifests/nc-app-greene-v-trustee-services-2016.json`. See the companion precedent case study. Still a bounded prototype, not a case-law database. No dedicated learner UI for the mapper.
-- Public source: Apache-2.0, `github.com/Qlander17/law-engine`. This case study describes the local tree it was written against.
+- Public source: Apache-2.0, `github.com/isaac-dev-ai/law-engine`. This case study describes the local tree it was written against.
 
 Rejected alternative that was cheaper: store lessons as markdown with inline citations. That model cannot type-check “this string is a metaphor” against “this string is governing text,” and it cannot fail a build when a citation points at a section that was never ingested.
 
